@@ -4,7 +4,7 @@ Hustle Castle Assistant (Hustle Castle Bot)
 Free to use software.
 
 🖥️ System Requirements
-Windows 7, 8, 10, 11
+Windows 10, 11
 
 MYGAMES Launcher (PC version)
 
