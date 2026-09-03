@@ -11,7 +11,9 @@ MYGAMES Launcher (PC version)
 Hustle Castle set to English
 
 In‑game Premium active for premium modules
+
 [Link to Latest Release](https://github.com/mrbeepbeep/Hustle-Castle-HC-Assistant/releases/tag/hc_assistant_official_latest)
+
 Documentation: https://hcassistant.com/
 
 HC Assistant is a powerful, user‑friendly Hustle Castle bot designed to automate gameplay on the official MYGAMES Launcher for PC. With full support for English‑language game clients, the bot handles everything from daily tasks to advanced combat modules, helping players save time, progress faster, and maximise in‑game rewards.
